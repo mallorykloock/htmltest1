@@ -264,7 +264,6 @@
                                 <img src="img/blog_item_01.jpg" alt="">
                                 <div class="text-content">
                                     <h4>Description</h4>
-                                    <span><a href="#">Description</a> / <a href="#">John</a> / <a href="#">22 September 2017</a></span>
                                     <p>We're so happy we could SCREAM!<br/>
                                         Why? Because it's Halloween!<br/>
                                         Our crypt is ready and it's a scary sight,<br/>
@@ -293,7 +292,7 @@
                                 </div>
                             </div>
                             <div id="tab3">
-                                <img src="img/blog_item_03.jpg" alt="">
+                                <img src="img/IMG_4699.JPG" alt="">
                                 <div class="text-content">
                                     <h4>Games</h4>                                 
                                     <p>The chance to Tempt Your Fate awaits you at Costumes and Cocktails.</br>
@@ -304,7 +303,6 @@
                                 <img src="img/blog_item_04.jpg" alt="">
                                 <div class="text-content">
                                     <h4>Bring a Drink</h4>
-                                    <span><a href="#">E-Commerce</a> / <a href="#">John</a> / <a href="#">12 August 2017</a></span>
                                     <p>Costumes & Cocktails is an expensive venture. We ask that everyone pitches in with a drink or 
                                     small dish. Contact your hosts for suggestions.</p> 
                                 </div>
