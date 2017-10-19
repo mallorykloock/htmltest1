@@ -249,7 +249,7 @@
                         <div class="section-heading">
                             <h4>Learn More</h4>
                             <div class="line-dec"></div>
-                            <p>Chia hot chicken la croix ugh dreamcatcher man bun squid vaporware kinfolk.</p>
+                            <p>Need more details about Costumes & Cocktails?</p>
                             <ul class="tabs clearfix" data-tabgroup="first-tab-group">
                                 <li><a href="#tab1" class="active">Description</a></li>
                                 <li><a href="#tab2">Date & Time</a></li>
@@ -286,8 +286,7 @@
                             <div id="tab2">
                                 <img src="img/blog_item_02.jpg" alt="">
                                 <div class="text-content">
-                                    <h4>Date & Time
-                                    <span><a href="#">Branding</a> / <a href="#">David</a> / <a href="#">14 September 2017</a></span>
+                                    <h4>Date & Time</h4>
                                     <p> Saturday<br/>
                                     October 28th<br/>
                                     8PM</p>
@@ -296,8 +295,7 @@
                             <div id="tab3">
                                 <img src="img/blog_item_03.jpg" alt="">
                                 <div class="text-content">
-                                    <h4>Games</h4>
-                                    <span><a href="#">Web Design</a> / <a href="#">Jacky</a> / <a href="#">25 August 2017</a></span>
+                                    <h4>Games</h4>                                 
                                     <p>The chance to Tempt Your Fate awaits you at Costumes and Cocktails.</br>
                                     Or if you're not brave enough to challenge fate, try a spin at the Wheel of Intoxication.</p>
                                 </div>
@@ -308,7 +306,7 @@
                                     <h4>Bring a Drink</h4>
                                     <span><a href="#">E-Commerce</a> / <a href="#">John</a> / <a href="#">12 August 2017</a></span>
                                     <p>Costumes & Cocktails is an expensive venture. We ask that everyone pitches in with a drink or 
-                                    small dish.</p> Contact your hosts for suggestions.
+                                    small dish. Contact your hosts for suggestions.</p> 
                                 </div>
                             </div>
                         </section>
