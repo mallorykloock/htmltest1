@@ -367,33 +367,27 @@
                       | Design: <span>templatemo</span></p>
                     </div>
                 </div>
-                <div class="col-md-4 col-sm-12">
+               <!-- <div class="col-md-4 col-sm-12"> -->
                     <div class="location">
                         <h4>Location</h4>
-                        <ul>
-                            <li>30 Raffles Ave, <br>Singapore 039803</li>
-                            <li>1 Republic Blvd, <br>Singapore 038975</li>
-                        </ul>
+                       37 Cadillac Dr., <br>Sacramento, CA 95825
                     </div>
                 </div>
                 <div class="col-md-2 col-sm-12">
                     <div class="contact-info">
                         <h4>More Info</h4>
                         <ul>
-                            <li><em>Phone</em>: 010-020-0340</li>
-                            <li><em>Email</em>: tk@company.co</li>
+                            <li><em>Mallory</em>: (916)601-4486</li>
+                            <li><em>Joe</em>: (818)679-2223</li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-md-2 col-sm-12">
                     <div class="connect-us">
-                        <h4>Get Social with us</h4>
+                        <h4>RSVP</h4>
                         <ul>
                             <li><a href="https://www.facebook.com/templatemo" target="_parent"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="https://www.google.com/+templatemo" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                            <li><a href="#"><i class="fa fa-rss"></i></a></li>
-                            <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
                         </ul>
                     </div>
                 </div>
