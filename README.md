@@ -369,7 +369,7 @@
             3. Click "Share" and choose "Embed map" tab
             4. Copy only URL and paste it within the src="" field below
         -->
-        <iframe src="<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3119.250817622368!2d-121.42031498436819!3d38.57407157354195!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x809ada5ea6d84b57%3A0xbeec8de83cc2b47!2s25+Cadillac+Dr%2C+Sacramento%2C+CA+95825!5e0!3m2!1sen!2sus!4v1508442393021" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>" width="100%" height="500" frameborder="0" style="border:0" allowfullscreen></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3119.250817622368!2d-121.42031498436819!3d38.57407157354195!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x809ada5ea6d84b57%3A0xbeec8de83cc2b47!2s25+Cadillac+Dr%2C+Sacramento%2C+CA+95825!5e0!3m2!1sen!2sus!4v1508442393021" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
     </div>
 
     <footer>
@@ -378,14 +378,14 @@
                 <div class="col-md-3 col-sm-12">
                     <div class="logo">
                         <a href="#" class="scroll-top">Costumes & Cocktails</a>
-                        <p><span>Design: Mallory & Joe</span></p>
+                        <p>Design: <span>Mallory & Joe</span></p>
                     </div>
                 </div>
                <div class="col-md-3 col-sm-12">
                     <div class="location">
                         <h4>Location</h4>
-                       37 Cadillac Dr., <br/
-                       >Sacramento, CA 95825
+                       37 Cadillac Dr., <br>
+                       Sacramento, CA 95825
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-12">
