@@ -58,7 +58,7 @@
     <div class="parallax-content baner-content" id="home">
         <div class="container">
             <div class="text-content">
-                <h2>COSTUMES & COCKTAILS 2017</em></h2>
+                <h2>COSTUMES & COCKTAILS <em>2017</em></h2>
                 <p>Phasellus aliquam finibus est, id tincidunt mauris fermentum a. In elementum diam et dui congue, ultrices bibendum mi lacinia. Aliquam lobortis dapibus nunc, nec tempus odio posuere quis. </p>
                 <div class="primary-white-button">
                     <a href="#" class="scroll-link" data-id="about">Let's Start</a>
