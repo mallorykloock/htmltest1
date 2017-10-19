@@ -112,7 +112,7 @@
                                 </div>
                             </div>
                             <div id="tab2">
-                                <img src="img/blog_item_02.jpg" alt="">
+                                <img src="img/DateTime.jpg" alt="">
                                 <div class="text-content">
                                     <h4>Date & Time</h4>
                                     <p> Saturday<br/>
@@ -129,7 +129,7 @@
                                 </div>
                             </div>
                             <div id="tab4">
-                                <img src="img/blog_item_04.jpg" alt="">
+                                <img src="img/Drinks.jpg" alt="">
                                 <div class="text-content">
                                     <h4>Bring a Drink</h4>
                                     <p>Costumes & Cocktails is an expensive venture. We ask that everyone pitches in with a drink or 
