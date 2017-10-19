@@ -1,12 +1,8 @@
-<!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<!--
-Tinker Template
-http://www.templatemo.com/tm-506-tinker
--->
+
         <title>Tinker CSS Template</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -62,7 +58,7 @@ http://www.templatemo.com/tm-506-tinker
     <div class="parallax-content baner-content" id="home">
         <div class="container">
             <div class="text-content">
-                <h2>Awesome <span>HTML5</span> Template <em>TINKER</em></h2>
+                <h2>COSTUMES & COCKTAILS 2017</em></h2>
                 <p>Phasellus aliquam finibus est, id tincidunt mauris fermentum a. In elementum diam et dui congue, ultrices bibendum mi lacinia. Aliquam lobortis dapibus nunc, nec tempus odio posuere quis. </p>
                 <div class="primary-white-button">
                     <a href="#" class="scroll-link" data-id="about">Let's Start</a>
@@ -82,7 +78,7 @@ http://www.templatemo.com/tm-506-tinker
                         </div>
                         <h4>Smart Alerts Updated</h4>
                         <div class="line-dec"></div>
-                        <p>Integer hendrerit vehicula mauris, sed pellentesque sem facilisis at. Aliquam vel arcu metus. Nam sem lectus, mattis non tellus et, tincidunt condimentum eros.</p>
+                        <p>Integer hendrerit vehicula mauris.</p>
                         <div class="primary-blue-button">
                             <a href="#" class="scroll-link" data-id="portfolio">Continue Reading</a>
                         </div>
@@ -95,7 +91,7 @@ http://www.templatemo.com/tm-506-tinker
                         </div>
                         <h4>Lovely HTML5 Layout</h4>
                         <div class="line-dec"></div>
-                        <p>Integer hendrerit vehicula mauris, sed pellentesque sem facilisis at. Aliquam vel arcu metus. Nam sem lectus, mattis non tellus et, tincidunt condimentum eros.</p>
+                        <p>Integer hendrerit vehicula mauris</p>
                         <div class="primary-blue-button">
                             <a href="#" class="scroll-link" data-id="portfolio">Continue Reading</a>
                         </div>
@@ -108,7 +104,7 @@ http://www.templatemo.com/tm-506-tinker
                         </div>
                         <h4>Always CSS Ready</h4>
                         <div class="line-dec"></div>
-                        <p>Integer hendrerit vehicula mauris, sed pellentesque sem facilisis at. Aliquam vel arcu metus. Nam sem lectus, mattis non tellus et, tincidunt condimentum eros.</p>
+                        <p>Integer hendrerit vehicula mauris</p>
                         <div class="primary-blue-button">
                             <a href="#" class="scroll-link" data-id="portfolio">Continue Reading</a>
                         </div>
@@ -143,10 +139,9 @@ http://www.templatemo.com/tm-506-tinker
                             <div class="filter-categories">
                                 <ul class="project-filter">
                                     <li class="filter" data-filter="all"><span>Show All</span></li>
-                                    <li class="filter" data-filter="branding"><span>Branding</span></li>
-                                    <li class="filter" data-filter="graphic"><span>Graphic</span></li>
-                                    <li class="filter" data-filter="nature"><span>Nature</span></li>
-                                    <li class="filter" data-filter="animation"><span>Animation</span></li>
+                                    <li class="filter" data-filter="2014"><span>2014</span></li>
+                                    <li class="filter" data-filter="graphic"><span>2015</span></li>
+                                    <li class="filter" data-filter="nature"><span>2017 (Coming Soon)</span></li>                         
                                 </ul>
                             </div>
                         </div>
