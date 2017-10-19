@@ -68,6 +68,8 @@
     </div>
 
 
+<!-- LEARN MORE -->
+
     <div class="tabs-content" id="blog">
         <div class="container">
             <div class="row">
@@ -141,6 +143,9 @@
         </div>
     </div>
     
+    
+    
+<!-- GALLERY -->
 
     <section id="portfolio">
         <div class="content-wrapper">
@@ -150,7 +155,7 @@
                         <div class="section-heading">
                             <h4>Gallery</h4>
                             <div class="line-dec"></div>
-                            <p>Chia hot chicken la croix ugh dreamcatcher man bun squid vaporware kinfolk.</p>
+                            <p>Take a look back at pictures from previous years.</p>
                             <div class="filter-categories">
                                 <ul class="project-filter">
                                     <li class="filter" data-filter="all"><span>Show All</span></li>
@@ -168,7 +173,7 @@
                                     <div class="col-md-6 col-sm-6 project-item mix nature">
                                       <div class="thumb">
                                             <div class="image">
-                                                <a href="img/portfolio_big_item_01.jpg" data-lightbox="image-1"><img src="img/portfolio_item_01.jpg"></a>
+                                                <a href="img/Hallow (0).jpg" data-lightbox="image-1"><img src="img/portfolio_item_01.jpg"></a>
                                             </div>
                                       </div>
                                     </div>
