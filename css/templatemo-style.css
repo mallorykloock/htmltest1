@@ -367,7 +367,7 @@ bootstrap.min.css:5
 
 
 #testimonial {
-	background-color: #f7c552;
+	background-color: #f89624;
 	text-align: center;
 	padding: 100px 0px;
 }
@@ -420,7 +420,7 @@ bootstrap.min.css:5
 
 
 #blog {
-	background-image: url(../img/blog-bg.jpg);
+	background-image: url(../img/LearnMore_bg.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
@@ -659,11 +659,11 @@ footer {
 footer .logo em {
 	font-style: normal;
 	font-size: 28px;
-	color: #f7c552;
+	color: #f89624;
 }
 footer .logo a {
 	display: inline-block;
-	margin-top: 15px;
+	margin-top: 0px;
 	text-decoration: none;
 	color: #fff!important;
 	font-size: 21px;
