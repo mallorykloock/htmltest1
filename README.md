@@ -40,9 +40,9 @@
                 <div id="main-nav" class="collapse navbar-collapse">
                     <ul class="nav navbar-nav">
                         <li><a href="#" class="scroll-top">Home</a></li>
-                        <li><a href="#" class="scroll-link" data-id="about">About Us</a></li>
-                        <li><a href="#" class="scroll-link" data-id="portfolio">Portfolio</a></li>
-                        <li><a href="#" class="scroll-link" data-id="blog">Blog</a></li>
+                        <li><a href="#" class="scroll-link" data-id="about">Learn More</a></li>
+                        <li><a href="#" class="scroll-link" data-id="portfolio">Gallery</a></li>
+                        <li><a href="#" class="scroll-link" data-id="blog">Map</a></li>
                         <li><a href="#" class="scroll-link" data-id="contact-us">Contact Us</a></li>
                     </ul>
                 </div>
@@ -68,6 +68,80 @@
     </div>
 
 
+    <div class="tabs-content" id="blog">
+        <div class="container">
+            <div class="row">
+                <div class="wrapper">
+                    <div class="col-md-4">
+                        <div class="section-heading">
+                            <h4>Learn More</h4>
+                            <div class="line-dec"></div>
+                            <p>Need more details about Costumes & Cocktails?</p>
+                            <ul class="tabs clearfix" data-tabgroup="first-tab-group">
+                                <li><a href="#tab1" class="active">Description</a></li>
+                                <li><a href="#tab2">Date & Time</a></li>
+                                <li><a href="#tab3">Games</a></li>
+                                <li><a href="#tab4">Bring a Drink</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-8">
+                        <section id="first-tab-group" class="tabgroup">
+                            <div id="tab1">
+                                <img src="img/blog_item_01.jpg" alt="">
+                                <div class="text-content">
+                                    <h4>Description</h4>
+                                    <p>We're so happy we could SCREAM!<br/>
+                                        Why? Because it's Halloween!<br/>
+                                        Our crypt is ready and it's a scary sight,<br/>
+                                        filled with frightening creatures of the night.<br/>
+
+                                        Enter the graveyard if you dare.<br/>
+                                        Go past the ghosts to the Demon's lair.<br/>
+                                        If you are strong and brave and bold,<br/>
+                                        accept this summons, you now hold.<br/>
+
+                                        Be here by 8:00 and meet your fate;<br/>
+                                        Wear your wildest costume and bring your tastiest date!<br/>
+                                        There will be Mayhem, Munchies, & Witch's Brew,<br/>
+                                        To make it complete, we just need you.... and some extra alcohol!<br/>
+
+                                        Costumes & Cocktails is back. Come on over and have a scary good time! Please bring an alcoholic                                         beverage or snack (if you don't know what to bring, just ask). We're DYING to have you......</p>
+                                </div>
+                            </div>
+                            <div id="tab2">
+                                <img src="img/blog_item_02.jpg" alt="">
+                                <div class="text-content">
+                                    <h4>Date & Time</h4>
+                                    <p> Saturday<br/>
+                                    October 28th<br/>
+                                    8PM</p>
+                                </div>
+                            </div>
+                            <div id="tab3">
+                                <img src="img/IMG_4699.JPG" alt="">
+                                <div class="text-content">
+                                    <h4>Games</h4>                                 
+                                    <p>The chance to Tempt Your Fate awaits you at Costumes and Cocktails.</br>
+                                    Or if you're not brave enough to challenge fate, try a spin at the Wheel of Intoxication.</p>
+                                </div>
+                            </div>
+                            <div id="tab4">
+                                <img src="img/blog_item_04.jpg" alt="">
+                                <div class="text-content">
+                                    <h4>Bring a Drink</h4>
+                                    <p>Costumes & Cocktails is an expensive venture. We ask that everyone pitches in with a drink or 
+                                    small dish. Contact your hosts for suggestions.</p> 
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    
     <section id="about" class="page-section">
         <div class="container">
             <div class="row">
@@ -241,78 +315,6 @@
         </div>
     </section>
 
-    <div class="tabs-content" id="blog">
-        <div class="container">
-            <div class="row">
-                <div class="wrapper">
-                    <div class="col-md-4">
-                        <div class="section-heading">
-                            <h4>Learn More</h4>
-                            <div class="line-dec"></div>
-                            <p>Need more details about Costumes & Cocktails?</p>
-                            <ul class="tabs clearfix" data-tabgroup="first-tab-group">
-                                <li><a href="#tab1" class="active">Description</a></li>
-                                <li><a href="#tab2">Date & Time</a></li>
-                                <li><a href="#tab3">Games</a></li>
-                                <li><a href="#tab4">Bring a Drink</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-md-8">
-                        <section id="first-tab-group" class="tabgroup">
-                            <div id="tab1">
-                                <img src="img/blog_item_01.jpg" alt="">
-                                <div class="text-content">
-                                    <h4>Description</h4>
-                                    <p>We're so happy we could SCREAM!<br/>
-                                        Why? Because it's Halloween!<br/>
-                                        Our crypt is ready and it's a scary sight,<br/>
-                                        filled with frightening creatures of the night.<br/>
-
-                                        Enter the graveyard if you dare.<br/>
-                                        Go past the ghosts to the Demon's lair.<br/>
-                                        If you are strong and brave and bold,<br/>
-                                        accept this summons, you now hold.<br/>
-
-                                        Be here by 8:00 and meet your fate;<br/>
-                                        Wear your wildest costume and bring your tastiest date!<br/>
-                                        There will be Mayhem, Munchies, & Witch's Brew,<br/>
-                                        To make it complete, we just need you.... and some extra alcohol!<br/>
-
-                                        Costumes & Cocktails is back. Come on over and have a scary good time! Please bring an alcoholic                                         beverage or snack (if you don't know what to bring, just ask). We're DYING to have you......</p>
-                                </div>
-                            </div>
-                            <div id="tab2">
-                                <img src="img/blog_item_02.jpg" alt="">
-                                <div class="text-content">
-                                    <h4>Date & Time</h4>
-                                    <p> Saturday<br/>
-                                    October 28th<br/>
-                                    8PM</p>
-                                </div>
-                            </div>
-                            <div id="tab3">
-                                <img src="img/IMG_4699.JPG" alt="">
-                                <div class="text-content">
-                                    <h4>Games</h4>                                 
-                                    <p>The chance to Tempt Your Fate awaits you at Costumes and Cocktails.</br>
-                                    Or if you're not brave enough to challenge fate, try a spin at the Wheel of Intoxication.</p>
-                                </div>
-                            </div>
-                            <div id="tab4">
-                                <img src="img/blog_item_04.jpg" alt="">
-                                <div class="text-content">
-                                    <h4>Bring a Drink</h4>
-                                    <p>Costumes & Cocktails is an expensive venture. We ask that everyone pitches in with a drink or 
-                                    small dish. Contact your hosts for suggestions.</p> 
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
 
     <div id="contact-us">
         <div class="container">
@@ -385,7 +387,7 @@
                     <div class="contact-info">
                         <h4>Location</h4>
                         <ul>
-                        <li>37 Cadillac Dr., </li>
+                        <li>37 Cadillac Drive Apt. #52 </li>
                         <li>Sacramento, CA 95825 </li>
                        </ul>
                     </div>
