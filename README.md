@@ -384,8 +384,10 @@
                <div class="col-md-3 col-sm-12">
                     <div class="location">
                         <h4>Location</h4>
-                       37 Cadillac Dr., <br>
-                       Sacramento, CA 95825
+                        <ul>
+                        <li>37 Cadillac Dr., <br>
+                       Sacramento, CA 95825</li>
+                       </ul>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-12">
