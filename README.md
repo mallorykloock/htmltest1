@@ -265,20 +265,20 @@
                                 <div class="text-content">
                                     <h4>Description</h4>
                                     <span><a href="#">Description</a> / <a href="#">John</a> / <a href="#">22 September 2017</a></span>
-                                    <p>We're so happy we could SCREAM!</br>
-                                        Why? Because it's Halloween!</br>
-                                        Our crypt is ready and it's a scary sight,</br>
-                                        filled with frightening creatures of the night.</br>
+                                    <p>We're so happy we could SCREAM!<br/>
+                                        Why? Because it's Halloween!<br/>
+                                        Our crypt is ready and it's a scary sight,<br/>
+                                        filled with frightening creatures of the night.<br/>
 
-                                        Enter the graveyard if you dare.</br>
-                                        Go past the ghosts to the Demon's lair.</br>
-                                        If you are strong and brave and bold,</br>
-                                        accept this summons, you now hold.</br>
+                                        Enter the graveyard if you dare.<br/>
+                                        Go past the ghosts to the Demon's lair.<br/>
+                                        If you are strong and brave and bold,<br/>
+                                        accept this summons, you now hold.<br/>
 
-                                        Be here by 8:00 and meet your fate;</br>
-                                        Wear your wildest costume and bring your tastiest date!</br>
-                                        There will be Mayhem, Munchies, & Witch's Brew,</br>
-                                        To make it complete, we just need you.... and some extra alcohol!</br>
+                                        Be here by 8:00 and meet your fate;<br/>
+                                        Wear your wildest costume and bring your tastiest date!<br/>
+                                        There will be Mayhem, Munchies, & Witch's Brew,<br/>
+                                        To make it complete, we just need you.... and some extra alcohol!<br/>
 
                                         Costumes & Cocktails is back. Come on over and have a scary good time! Please bring an alcoholic                                         beverage or snack (if you don't know what to bring, just ask). We're DYING to have you......</p>
                                 </div>
@@ -288,9 +288,9 @@
                                 <div class="text-content">
                                     <h4>Date & Time
                                     <span><a href="#">Branding</a> / <a href="#">David</a> / <a href="#">14 September 2017</a></span>
-                                    <p> Saturday</br>
-                                    October 28th</br>
-                                    8PM
+                                    <p> Saturday<br/>
+                                    October 28th<br/>
+                                    8PM</p>
                                 </div>
                             </div>
                             <div id="tab3">
