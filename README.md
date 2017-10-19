@@ -141,65 +141,6 @@
         </div>
     </div>
     
-    
-    <section id="about" class="page-section">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-3 col-sm-6 col-xs-12">
-                    <div class="service-item">
-                        <div class="icon">
-                            <img src="img/service_icon_01.png" alt="">
-                        </div>
-                        <h4>Smart Alerts Updated</h4>
-                        <div class="line-dec"></div>
-                        <p>Integer hendrerit vehicula mauris.</p>
-                        <div class="primary-blue-button">
-                            <a href="#" class="scroll-link" data-id="portfolio">Continue Reading</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6 col-xs-12">
-                    <div class="service-item">
-                        <div class="icon">
-                            <img src="img/service_icon_02.png" alt="">
-                        </div>
-                        <h4>Lovely HTML5 Layout</h4>
-                        <div class="line-dec"></div>
-                        <p>Integer hendrerit vehicula mauris</p>
-                        <div class="primary-blue-button">
-                            <a href="#" class="scroll-link" data-id="portfolio">Continue Reading</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6 col-xs-12">
-                    <div class="service-item">
-                        <div class="icon">
-                            <img src="img/service_icon_03.png" alt="">
-                        </div>
-                        <h4>Always CSS Ready</h4>
-                        <div class="line-dec"></div>
-                        <p>Integer hendrerit vehicula mauris</p>
-                        <div class="primary-blue-button">
-                            <a href="#" class="scroll-link" data-id="portfolio">Continue Reading</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6 col-xs-12">
-                    <div class="service-item">
-                        <div class="icon">
-                            <img src="img/service_icon_04.png" alt="">
-                        </div>
-                        <h4>One-Click Install</h4>
-                        <div class="line-dec"></div>
-                        <p>Integer hendrerit vehicula mauris, sed pellentesque sem facilisis at. Aliquam vel arcu metus. Nam sem lectus, mattis non tellus et, tincidunt condimentum eros.</p>
-                        <div class="primary-blue-button">
-                            <a href="#" class="scroll-link" data-id="portfolio">Continue Reading</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
     <section id="portfolio">
         <div class="content-wrapper">
@@ -207,7 +148,7 @@
                 <div class="row">
                     <div class="col-md-4 col-sm-12">
                         <div class="section-heading">
-                            <h4>Our Gallery</h4>
+                            <h4>Gallery</h4>
                             <div class="line-dec"></div>
                             <p>Chia hot chicken la croix ugh dreamcatcher man bun squid vaporware kinfolk.</p>
                             <div class="filter-categories">
