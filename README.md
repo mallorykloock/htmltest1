@@ -382,11 +382,11 @@
                     </div>
                 </div>
                <div class="col-md-3 col-sm-12">
-                    <div class="location">
+                    <div class="contact-info">
                         <h4>Location</h4>
                         <ul>
-                        <li>37 Cadillac Dr., <br>
-                       Sacramento, CA 95825</li>
+                        <li>37 Cadillac Dr., </li>
+                        <li>Sacramento, CA 95825 </li>
                        </ul>
                     </div>
                 </div>
