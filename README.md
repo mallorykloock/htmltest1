@@ -247,14 +247,14 @@
                 <div class="wrapper">
                     <div class="col-md-4">
                         <div class="section-heading">
-                            <h4>Our Blog Posts</h4>
+                            <h4>Learn More</h4>
                             <div class="line-dec"></div>
                             <p>Chia hot chicken la croix ugh dreamcatcher man bun squid vaporware kinfolk.</p>
                             <ul class="tabs clearfix" data-tabgroup="first-tab-group">
-                                <li><a href="#tab1" class="active">Lorem ipsum dolor sit</a></li>
-                                <li><a href="#tab2">Quisque ultricies maximus</a></li>
-                                <li><a href="#tab3">Sed vel elit et lorem</a></li>
-                                <li><a href="#tab4">Vivamus purus neque</a></li>
+                                <li><a href="#tab1" class="active">Description</a></li>
+                                <li><a href="#tab2">Date & Time</a></li>
+                                <li><a href="#tab3">Games</a></li>
+                                <li><a href="#tab4">Bring a Drink</a></li>
                             </ul>
                         </div>
                     </div>
@@ -263,33 +263,52 @@
                             <div id="tab1">
                                 <img src="img/blog_item_01.jpg" alt="">
                                 <div class="text-content">
-                                    <h4>Lorem ipsum dolor sit amet</h4>
-                                    <span><a href="#">Digital Marketing</a> / <a href="#">John</a> / <a href="#">22 September 2017</a></span>
-                                    <p>Sed sed elementum diam. Nunc vehicula leo et ante dapibus tincidunt. Praesent fringilla mauris gravida enim laoreet, eu cursus erat dignissim. Praesent lacinia, nisi in suscipit commodo, risus elit viverra neque, ut pretium eros turpis vel enim. Maecenas vitae lacus purus.</p>
+                                    <h4>Description</h4>
+                                    <span><a href="#">Description</a> / <a href="#">John</a> / <a href="#">22 September 2017</a></span>
+                                    <p>We're so happy we could SCREAM!</br>
+                                        Why? Because it's Halloween!</br>
+                                        Our crypt is ready and it's a scary sight,</br>
+                                        filled with frightening creatures of the night.</br>
+
+                                        Enter the graveyard if you dare.</br>
+                                        Go past the ghosts to the Demon's lair.</br>
+                                        If you are strong and brave and bold,</br>
+                                        accept this summons, you now hold.</br>
+
+                                        Be here by 8:00 and meet your fate;</br>
+                                        Wear your wildest costume and bring your tastiest date!</br>
+                                        There will be Mayhem, Munchies, & Witch's Brew,</br>
+                                        To make it complete, we just need you.... and some extra alcohol!</br>
+
+                                        Costumes & Cocktails is back. Come on over and have a scary good time! Please bring an alcoholic                                         beverage or snack (if you don't know what to bring, just ask). We're DYING to have you......</p>
                                 </div>
                             </div>
                             <div id="tab2">
                                 <img src="img/blog_item_02.jpg" alt="">
                                 <div class="text-content">
-                                    <h4>Quisque ultricies maximus</h4>
+                                    <h4>Date & Time
                                     <span><a href="#">Branding</a> / <a href="#">David</a> / <a href="#">14 September 2017</a></span>
-                                    <p> Quisque eget congue orci. Integer et eros diam. Curabitur aliquam nisi ornare turpis tristique tincidunt ut ut orci. Phasellus orci nisi, varius sed lacinia et, pulvinar quis est. Curabitur a tincidunt tortor. Cras rhoncus sodales massa sagittis malesuada.</p>
+                                    <p> Saturday</br>
+                                    October 28th</br>
+                                    8PM
                                 </div>
                             </div>
                             <div id="tab3">
                                 <img src="img/blog_item_03.jpg" alt="">
                                 <div class="text-content">
-                                    <h4>Sed vel elit et lorem</h4>
+                                    <h4>Games</h4>
                                     <span><a href="#">Web Design</a> / <a href="#">Jacky</a> / <a href="#">25 August 2017</a></span>
-                                    <p>Cras sodales, magna non ultrices pellentesque, ligula dui viverra nunc, vitae scelerisque arcu tortor nec nibh. Proin tempor vel nisi et sagittis. Morbi ut sagittis orci, a pretium diam. Nullam sed bibendum turpis. Fusce eget dapibus lectus. Vestibulum ac malesuada lacus, eu vulputate sapien. Sed vel elit et lorem cursus dignissim sed sit amet arcu.</p>
+                                    <p>The chance to Tempt Your Fate awaits you at Costumes and Cocktails.</br>
+                                    Or if you're not brave enough to challenge fate, try a spin at the Wheel of Intoxication.</p>
                                 </div>
                             </div>
                             <div id="tab4">
                                 <img src="img/blog_item_04.jpg" alt="">
                                 <div class="text-content">
-                                    <h4>Vivamus purus neque</h4>
+                                    <h4>Bring a Drink</h4>
                                     <span><a href="#">E-Commerce</a> / <a href="#">John</a> / <a href="#">12 August 2017</a></span>
-                                    <p>Aliquam erat volutpat. Nulla at nunc nec ante rutrum congue id in diam. Nulla at lectus non turpis placerat volutpat lacinia ut mi. Quisque ultricies maximus justo a blandit. Donec sit amet commodo arcu. Sed sit amet iaculis mi, vel fermentum nisi. Morbi dui enim, vestibulum non accumsan ac, tempor non nisl.</p>
+                                    <p>Costumes & Cocktails is an expensive venture. We ask that everyone pitches in with a drink or 
+                                    small dish.</p> Contact your hosts for suggestions.
                                 </div>
                             </div>
                         </section>
