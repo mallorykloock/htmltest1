@@ -375,29 +375,29 @@
     <footer>
         <div class="container">
             <div class="row">
-                <div class="col-md-4 col-sm-12">
+                <div class="col-md-3 col-sm-12">
                     <div class="logo">
-                        <a href="#" class="scroll-top"><em>T</em>inker</a>
-                        <p>Copyright &copy; 2017 Your Company 
-                      | Design: <span>templatemo</span></p>
+                        <a href="#" class="scroll-top">Costumes & Cocktails</a>
+                        <p><span>Design: Mallory & Joe</span></p>
                     </div>
                 </div>
-               <div class="col-md-4 col-sm-12">
+               <div class="col-md-3 col-sm-12">
                     <div class="location">
                         <h4>Location</h4>
-                       37 Cadillac Dr., <br>Sacramento, CA 95825
+                       37 Cadillac Dr., <br/
+                       >Sacramento, CA 95825
                     </div>
                 </div>
-                <div class="col-md-2 col-sm-12">
+                <div class="col-md-3 col-sm-12">
                     <div class="contact-info">
-                        <h4>More Info</h4>
+                        <h4>Contact</h4>
                         <ul>
                             <li><em>Mallory</em>: (916)601-4486</li>
                             <li><em>Joe</em>: (818)679-2223</li>
                         </ul>
                     </div>
                 </div>
-                <div class="col-md-2 col-sm-12">
+                <div class="col-md-3 col-sm-12">
                     <div class="connect-us">
                         <h4>RSVP</h4>
                         <ul>
