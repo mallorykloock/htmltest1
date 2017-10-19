@@ -90,46 +90,45 @@
                     <div class="col-md-8">
                         <section id="first-tab-group" class="tabgroup">
                             <div id="tab1">
-                                <img src="img/blog_item_01.jpg" alt="">
+                                <img src="img/LearnMore_House.jpg" alt="">
                                 <div class="text-content">
                                     <h4>Description</h4>
                                     <p>We're so happy we could SCREAM!<br/>
                                         Why? Because it's Halloween!<br/>
                                         Our crypt is ready and it's a scary sight,<br/>
-                                        filled with frightening creatures of the night.<br/>
+                                        filled with frightening creatures of the night.<br/></p>
 
-                                        Enter the graveyard if you dare.<br/>
+                                        <p>Enter the graveyard if you dare.<br/>
                                         Go past the ghosts to the Demon's lair.<br/>
                                         If you are strong and brave and bold,<br/>
-                                        accept this summons, you now hold.<br/>
+                                        accept this summons, you now hold.<br/></p>
 
-                                        Be here by 8:00 and meet your fate;<br/>
+                                       <p> Be here by 8:00 and meet your fate;<br/>
                                         Wear your wildest costume and bring your tastiest date!<br/>
                                         There will be Mayhem, Munchies, & Witch's Brew,<br/>
-                                        To make it complete, we just need you.... and some extra alcohol!<br/>
+                                        To make it complete, we just need you.... and some extra alcohol!<br/></p>
 
-                                        Costumes & Cocktails is back. Come on over and have a scary good time! Please bring an alcoholic                                         beverage or snack (if you don't know what to bring, just ask). We're DYING to have you......</p>
+                                        <p>Costumes & Cocktails is back. Come on over and have a scary good time! Please bring an alcoholic <br> beverage or snack (if you don't know what to bring, just ask). We're DYING to have you......</p>
                                 </div>
                             </div>
                             <div id="tab2">
-                                <img src="img/DateTime.jpg" alt="">
+                                <img src="img/LearnMore_DateTime.jpg" alt="">
                                 <div class="text-content">
                                     <h4>Date & Time</h4>
-                                    <p> Saturday<br/>
-                                    October 28th<br/>
-                                    8PM</p>
+                                    <p> Saturday, October 28th<br/>
+                                    <b>8PM</b></p>
                                 </div>
                             </div>
                             <div id="tab3">
-                                <img src="img/IMG_4699.JPG" alt="">
+                                <img src="img/LearnMore_Games.jpg" alt="">
                                 <div class="text-content">
                                     <h4>Games</h4>                                 
-                                    <p>The chance to Tempt Your Fate awaits you at Costumes and Cocktails.</br>
+                                    <p>The chance to Tempt Your Fate awaits you at Costumes and Cocktails.<br>
                                     Or if you're not brave enough to challenge fate, try a spin at the Wheel of Intoxication.</p>
                                 </div>
                             </div>
                             <div id="tab4">
-                                <img src="img/Drinks.jpg" alt="">
+                                <img src="img/LearnMore_Drinks.jpg" alt="">
                                 <div class="text-content">
                                     <h4>Bring a Drink</h4>
                                     <p>Costumes & Cocktails is an expensive venture. We ask that everyone pitches in with a drink or 
